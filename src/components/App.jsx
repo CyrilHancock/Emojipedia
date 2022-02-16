@@ -1,6 +1,6 @@
 import React from "react";
 import Dictonary from "./Dictonary";
-import emojipedia from "/src/emojipedia";
+import emojipedia from "./emojipedia";
 function App() {
   return (
     <div>
